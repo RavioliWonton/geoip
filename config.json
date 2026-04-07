@@ -90,7 +90,8 @@
             "AS13949",
             "AS139190",
             "AS139070"
-          ]
+          ],
+          "twitter": ["AS8945", "AS63179", "AS54888", "AS35995", "AS13414"]
         }
       }
     },
@@ -106,7 +107,7 @@
       "args": {
         "outputDir": "./output",
         "outputName": "geoip.dat",
-        "wantedList": ["cn", "jp", "google", "private"]
+        "wantedList": ["cn", "jp", "google", "twitter", "private"]
       }
     },
     {
