@@ -105,7 +105,8 @@
       "action": "output",
       "args": {
         "outputDir": "./output",
-        "outputName": "geoip.dat"
+        "outputName": "geoip.dat",
+        "wantedList": ["cn", "jp", "google", "private"]
       }
     },
     {
